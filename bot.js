@@ -105,7 +105,7 @@ app.get('/', (req, res) => {
   res.sendFile(imagePath);
 });
 app.listen(port, () => {
-  console.log(`🔗 Playing to Kaioshin Dev 🔥`);
+  console.log(`🔗 Playing to Kaioshin | Miao`);
 });
 printWatermark();
 /*
